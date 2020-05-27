@@ -1,0 +1,9 @@
+Subsemnatul Mindru Madalin declarar pe propria raspundere ca acest cod nu a fost copiat din Internet sau din alte surse. Pentru documentare am folosit urmatoarele surse:
+https://profs.info.uaic.ro/~iasimin/Laborator%20C%20S%20H/Laborator%20WCF%202020.pdf
+https://profs.info.uaic.ro/~iasimin/Laborator%20C%20S%20H/Laborator1-2016.pdf
+https://stackoverflow.com/questions/18475195/error-there-is-already-an-open-datareader-associated-with-this-command-which-mu/18475525#18475525
+
+
+ObjectWCF:
+
+Au fost adaugate doua clase: Interfata Contracts si clasa care implementeaza metodele din interfata: ModelAndApi.cs

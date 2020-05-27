@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mandr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mandr\\.nuget\\packages"
+    ]
+  }
+}
