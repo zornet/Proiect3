@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mandr\\OneDrive\\Desktop\\TSP.NET Proiect 2\\RazorPages\\RazorPages.csproj": {}
+    "C:\\Users\\mandr\\OneDrive\\Desktop\\TSP.NET Proiect 3\\Proiect3\\RazorPages\\RazorPages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mandr\\OneDrive\\Desktop\\TSP.NET Proiect 2\\RazorPages\\RazorPages.csproj": {
+    "C:\\Users\\mandr\\OneDrive\\Desktop\\TSP.NET Proiect 3\\Proiect3\\RazorPages\\RazorPages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mandr\\OneDrive\\Desktop\\TSP.NET Proiect 2\\RazorPages\\RazorPages.csproj",
+        "projectUniqueName": "C:\\Users\\mandr\\OneDrive\\Desktop\\TSP.NET Proiect 3\\Proiect3\\RazorPages\\RazorPages.csproj",
         "projectName": "RazorPages",
-        "projectPath": "C:\\Users\\mandr\\OneDrive\\Desktop\\TSP.NET Proiect 2\\RazorPages\\RazorPages.csproj",
+        "projectPath": "C:\\Users\\mandr\\OneDrive\\Desktop\\TSP.NET Proiect 3\\Proiect3\\RazorPages\\RazorPages.csproj",
         "packagesPath": "C:\\Users\\mandr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mandr\\OneDrive\\Desktop\\TSP.NET Proiect 2\\RazorPages\\obj\\",
+        "outputPath": "C:\\Users\\mandr\\OneDrive\\Desktop\\TSP.NET Proiect 3\\Proiect3\\RazorPages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
